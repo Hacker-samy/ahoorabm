@@ -25,7 +25,7 @@ print
 print "["+B+""+R+"#"+N+"] "+B+""+R+"ddos"+N+"   dos - "+B+""+R+"Hacker"+N
 print
 print("\033[32m================================================================\033[0m")
-print("\033[32mTool devoloped : white-eagle\033[0m")
+print("\033[32mTool ddos : test\033[0m")
 print("\033[33msoroush 	       : @ahoorabm3")
 print("\033[33mteam       : edalat-siah")
 print("\033[32m================================================================\033[0m")
